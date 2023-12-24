@@ -1,4 +1,4 @@
-# DSA-resources---Primary-skill
+# DSA-Resources-PrimarySkill
 
 - [Take you forward](https://takeuforward.org/) - official site + youtube channel
 - [Java online compiler with debugging 1](https://www.onlinegdb.com/online_java_compiler)
